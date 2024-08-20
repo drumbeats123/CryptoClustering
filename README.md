@@ -1,6 +1,6 @@
 # The Challenge
 
-The challenge this week is to forecast trends and graph them using Prophet.
+The challenge this week is to cluster and make predictions using crypto currency data.
 
 # Solution
 
